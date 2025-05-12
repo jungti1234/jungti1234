@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungti1234%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjungti1234?color=green&label=hits&size=small)](https://myhits.vercel.app)
 
 <!--
 **jungti1234/jungti1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
